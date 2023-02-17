@@ -110,7 +110,7 @@ float smoothing = 0.80;
 boolean trace = false;
 float xr = 0;
 float yr = 0;
-// fix side of square
+// fix radius of circle
 float radius = 0.3;
 float circle_angle = 0;
 // fix the update rate for the circle angle
